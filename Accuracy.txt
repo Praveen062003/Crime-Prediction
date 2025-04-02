@@ -1,0 +1,9 @@
+CRIME PREDICTION AND ANALYSIS USING MACHINE LEARNING ALGORITHM
+
+Algorithms: Random Forest Classifier, Decision Tree
+
+Accuracy score: 0.80
+
+
+
+
